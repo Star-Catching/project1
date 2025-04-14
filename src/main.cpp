@@ -253,7 +253,7 @@ int main() {
             ImGui::ShowDemoWindow(&show_demo_window);
 
          // 渲染 ImGui：ImGui::Render() 函数会生成当前 ImGui UI 所需的渲染指令。
-        ImGui::Render();   //! wxz标记的框架
+        ImGui::Render();   //! wxz标记的框架 1
   
         // 获取当前窗口的帧缓冲区尺寸，并将其存储到 display_w 和 display_h 变量中
         int display_w, display_h;
