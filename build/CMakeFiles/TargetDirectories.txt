@@ -1,0 +1,3 @@
+/home/wxz/UI/test/project1/build/CMakeFiles/MyImGuiApp.dir
+/home/wxz/UI/test/project1/build/CMakeFiles/edit_cache.dir
+/home/wxz/UI/test/project1/build/CMakeFiles/rebuild_cache.dir
